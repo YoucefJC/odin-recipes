@@ -20,6 +20,10 @@ h1, h2, h3, h4 {
     text-align: center;
 }
 
+.main-title {
+    font-size: 3em;
+}
+
 #recipes-list {
     list-style-type: none;
 }
